@@ -1,2 +1,2 @@
-# Project_IFT6266
-This is a repository for deep learning
+# Project_Blog_DeepLearning
+This is a blog for deep learning
